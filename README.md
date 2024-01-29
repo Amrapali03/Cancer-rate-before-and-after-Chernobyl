@@ -2,6 +2,8 @@
 
 Determine cancer cases in Belarus before and after the accident in Chernobyl.
 
+Data Challenge: This is mostly a notebook to pracrtice Python data exploring libraries like Pandas.
+
 About dataset:
 www.kaggle.com/datasets/marshuu/cancer-rate-before-and-after-chernobyl
 I found the data added to this dataset in a scientific article of a magazine "Radiation and risk". They published data collected and provided by the Byelorussian center of Medical Technologies.
